@@ -26,8 +26,8 @@
   <img align="center" alt="Robson-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="Robson-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg">
  
-  <img align="right" alt="Robson-gif" height="120" width="150" src="https://tenor.com/view/hello-hey-hi-kitty-gif-12062520.gif">
-</div>
+  <img align="right" alt="Robson-gif"  height="145" width="230" src=https://github.com/RobsonCoura/RobsonCoura/blob/main/gba-super-mario-advance.gif>
+  </div>
   
   ##
  
