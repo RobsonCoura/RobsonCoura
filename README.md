@@ -40,6 +40,6 @@
   <a href="https://www.instagram.com/robson_coura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/r6guAuJz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](https://github.com/Milton-Viegas/Milton-Viegas/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/RobsonCoura/RobsonCoura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
