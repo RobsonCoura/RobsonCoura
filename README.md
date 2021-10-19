@@ -1,4 +1,6 @@
-## 
+##  Olá, eu sou o Robson Coura 🧔🏻!
+
+## 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 ☺ 
 🚀| Bootcamp Generation Brasil Desenvolvedor Full Stack Júnior 2021 (Cursando);
 
 ♨| Iniciando a carreira de Desenvolvedor Full Stack Java Jr ;
@@ -43,3 +45,10 @@
  ![Snake animation](https://github.com/RobsonCoura/RobsonCoura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ ##
+  
+<p align="center"> Total de Visitas no perfil :detective: <br>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/RobsonCoura/count.svg" />
+</p>
