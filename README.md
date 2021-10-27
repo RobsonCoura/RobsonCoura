@@ -1,10 +1,12 @@
+##  Olá, eu sou o Robson Coura 🧔🏻!
+
+## 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 ☺ 
+
 <h4 align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-##  Olá, eu sou o Robson Coura 🧔🏻!
 
-## 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 ☺ 
 🚀| Bootcamp Generation Brasil Desenvolvedor Full Stack Júnior 2021 (Cursando);
 
 ♨| Iniciando a carreira de Desenvolvedor Full Stack Java Jr ;
