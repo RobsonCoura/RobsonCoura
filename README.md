@@ -35,6 +35,8 @@
  <a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=width="50" height="50"/></a> 
  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
    <img align="center" alt="Robson-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+ <img align="center" alt="Biell-Vscode" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
  
 
  
