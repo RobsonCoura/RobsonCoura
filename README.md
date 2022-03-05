@@ -1,4 +1,4 @@
-##  Olá, eu sou o Robson Coura 🧔🏻!
+##  Hi!! 👋🧔😄 I'm Robson Coura! 💙♋
 
 ## 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 ☺ 
 
@@ -11,12 +11,30 @@
   </p>
  
 🎓🚀| Bootcamp Generation Brasil Desenvolvedor Full Stack Júnior 2021 (Concluido);
+ 
+👩‍💻🎓| Graduated | Full-Stack Java Júnior Developer at Generation Brasil;
+ 
+👶🏻💻| Junior Full Stack Java Web Developer;
+ 
+📚🚀| Currently studying on the Alura platform;
+ 
+😍💡| Passionate about learning and teaching, so I'm here to share experiences;
 
-♨| Iniciando a carreira de Desenvolvedor Full Stack Java Jr ;
+♨ | Starting the career of Full Stack Java Jr Developer;
 
-👨💻 | Sou apaixonado por computação, tenho facilidade em aprender, super dinâmico e muita criatividade, ótimo humor, espírito para trabalhar em equipe, disposto a aprender;
+👨💻 | I'm passionate about computing, I'm easy to learn, super dynamic and a lot of creativity, great humor, teamwork spirit, willing to learn;
 
-🍀| Em busca da primeira oportunidade para iniciar a carreira na área e continuar me especializando.
+🍀| Looking for the first opportunity to start a career in the area and continue specializing;
+
+🏆🎓| Formed by Generation Brasil @https://www.linkedin.com/school/generationbrasil/
+ 
+😊💬| Pronouns: Ele / He
+
+📧| Email: robson_coura@yahoo.com.br
+ 
+📫📞| Contact me: https://www.linkedin.com/in/robsoncoura/
+ 
+🌍🏁| São Paulo, Brazil
 
  <div>
   <a href="https://github.com/RobsonCoura">
