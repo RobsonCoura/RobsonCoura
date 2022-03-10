@@ -29,10 +29,6 @@
 🏆🎓| Formed by Generation Brasil @https://www.linkedin.com/school/generationbrasil/
  
 😊💬| Pronouns: Ele / He
-
-📧| Email: robson_coura@yahoo.com.br
- 
-📫📞| Contact me: https://www.linkedin.com/in/robsoncoura/
  
 🌍🏁| São Paulo, Brazil
 
