@@ -10,27 +10,23 @@
  📦  <a href="https://github.com/RobsonCoura">Principais Repositórios</a>
   </p>
  
-🎓🚀| Bootcamp Generation Brasil Desenvolvedor Full Stack Júnior 2021 (Concluido);
+🎓🏆🚀| Bootcamp Generation Brasil Desenvolvedor Full Stack Júnior 2021 (Concluído);
  
-👩‍💻🎓| Graduated | Full-Stack Java Júnior Developer at Generation Brasil;
+👩‍💻🎓| Formado | Desenvolvedor Full-Stack Java Júnior na Generation Brasil;
  
-👶🏻💻| Junior Full Stack Java Web Developer;
+👶🏻💻| Desenvolvedor Web Full Stack Java Júnior;
  
-📚🚀| Currently studying on the Alura platform;
+📚🚀| Atualmente estudando na plataforma Alura;
  
-😍💡| Passionate about learning and teaching, so I'm here to share experiences;
+😍💡| Apaixonado por aprender e ensinar, estou aqui para compartilhar experiências;
 
-♨ | Starting the career of Full Stack Java Jr Developer;
+💻🎯 | Iniciando a carreira de Desenvolvedor Full Stack Java Jr;
 
-👨💻 | I'm passionate about computing, I'm easy to learn, super dynamic and a lot of creativity, great humor, teamwork spirit, willing to learn;
+🧔🏻💻 | Sou apaixonado por computação, sou fácil de aprender, super dinâmico e muita criatividade, ótimo humor, espírito de trabalho em equipe, vontade de aprender;
 
-🍀| Looking for the first opportunity to start a career in the area and continue specializing;
-
-🏆🎓| Formed by Generation Brasil @https://www.linkedin.com/school/generationbrasil/
+😊💬| Pronomes: Ele / Ele
  
-😊💬| Pronouns: Ele / He
- 
-🌍🏁| São Paulo, Brazil
+🌍🚩| São Paulo, Brasil
 
  <div>
   <a href="https://github.com/RobsonCoura">
