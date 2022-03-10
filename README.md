@@ -10,11 +10,9 @@
  📦  <a href="https://github.com/RobsonCoura">Principais Repositórios</a>
   </p>
  
-🎓🏆🚀| Bootcamp Generation Brasil Desenvolvedor Full Stack Júnior 2021 (Concluído);
+🎓🏆🚀| Bootcamp Generation Brasil Desenvolvedor Web Full-Stack Java Júnior 2021 (Concluído);
  
-👩‍💻🎓| Formado | Desenvolvedor Full-Stack Java Júnior na Generation Brasil;
- 
-👶🏻💻| Desenvolvedor Web Full Stack Java Júnior;
+🎓👶🏻💻| Formado | Desenvolvedor Web Full-Stack Java Júnior na Generation Brasil;
  
 📚🚀| Atualmente estudando na plataforma Alura;
  
