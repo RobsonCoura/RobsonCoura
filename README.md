@@ -67,7 +67,7 @@
    
 <div align="center">
 
-  ![Snake animation](https://github.com/RobsonCoura/Robson-Coura/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RobsonCoura/RobsonCoura/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
