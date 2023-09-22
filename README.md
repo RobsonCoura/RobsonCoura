@@ -2,12 +2,9 @@
 
 ## 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 ☺ 
 
-<h4 align="left">
- 
-
 ![Web 1](https://github.com/RobsonCoura/RobsonCoura/blob/main/media/mario-bros-bedroom.gif)
 
- ## <h4 align="left">
+ <h4 align="left">
  📦  <a href="https://github.com/RobsonCoura">Principais Repositórios</a>
   </p>
  
@@ -49,14 +46,7 @@
  <a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=width="50" height="50"/></a> 
    <img align="center" alt="Robson-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
  <img align="center" alt="Heroku" height "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
-
- 
-
- 
-  <img align="right" alt="Robson-gif"  height="145" width="230" src=https://github.com/RobsonCoura/RobsonCoura/blob/main/gba-super-mario-advance.gif>
   </div>
-  
-  ##
  
 <div> 
   <a href="https://www.linkedin.com/in/robson-coura-63345a1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /a>
