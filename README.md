@@ -1,12 +1,13 @@
-##  Hi!! 🧔🏻😄 I'm Robson Coura! 💙♋
 
-## 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 ☺ 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋+seja+bem+vindo(a)!;" />
+</h1>
+
+### 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 🧐💻
 
 ![Web 1](https://github.com/RobsonCoura/RobsonCoura/blob/main/media/mario-bros-bedroom.gif)
 
- <h4 align="left">
- 📦  <a href="https://github.com/RobsonCoura">Principais Repositórios</a>
-  </p>
+---
  
 🎓🏆🚀| Bootcamp Generation Brasil Desenvolvedor Web Full-Stack Java Júnior 2021 (Concluído);
  
@@ -24,28 +25,41 @@
  
 🌍🚩| São Paulo, Brasil
 
- <div>
-  <a href="https://github.com/RobsonCoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonCoura&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonCoura&theme=blue-green&layout=compact&langs_count=20"/>                      
-</div>
+   ---
+   ## ⭐️ Hard Skills
+  
 <div style="display: inline_block"><br>
- <img align="center" alt="Robson-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
- <img align="center" alt="Robson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt="Spring" height "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Robson-Vscode" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="MySQL" height "60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- <img align="center" alt="Angular" height "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
- <img align="center" alt="Robson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Robson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Robson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Bootstrap" height "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> 
-    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"> -
-  <img align="center" alt="Robson-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
- <a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=width="50" height="50"/></a> 
-   <img align="center" alt="Robson-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
- <img align="center" alt="Heroku" height "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+  <!-- Java --> <img src="https://img.shields.io/badge/java-CC2927?style=for-the-badge&logo=java&logoColor=white">
+  <!-- Spring Boot --> <img src="https://img.shields.io/badge/SpringBoot%20-323330?style=for-the-badge&logo=springboot&logoColor=32de84">
+  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <!-- Angular --> <img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=CC2927">
+  <!-- HTML --> <img src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html&logoColor=CC2927">
+  <!-- CSS --> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=blue">
+  <!-- Nest Js --> <img src="https://img.shields.io/badge/Nestjs-323330?style=for-the-badge&logo=Nestjs&logoColor=CC2927">
+  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-323330?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">
+  <!-- MySQL --> <img src="https://img.shields.io/badge/MySql-323330?style=for-the-badge&logo=mysql&logoColor=blue">
+  <!-- PostgreSQL --> <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgreSQL&logoColor=blue">
+  <!-- Postman --> <img src="https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=Postman&logoColor=EF5B25">
+  <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <!-- Swagger --> <img src="https://img.shields.io/badge/Swagger%20-323330?style=for-the-badge&logo=Swagger&logoColor=32de84">
+  <!-- Scrum --> <img src="https://img.shields.io/badge/scrum-5E5C5C?style=for-the-badge&logo=scrum&logoColor=white">
+  <!-- Azure DevOps --> <img src="https://img.shields.io/badge/Azure DevOps%20-323330?style=for-the-badge&logo=Azure DevOps&logoColor=blue">
+  <!-- Git --> <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=Git&logoColor=CC2927">
+  <!-- Git Lab --> <img src="https://img.shields.io/badge/GitLab%20-323330?style=for-the-badge&logo=GitLab&logoColor=EF5B25">
+  <!-- Git Hub --> <img src="https://img.shields.io/badge/GitHub%20-323330?style=for-the-badge&logo=GitHub&logoColor=8B008B">
+
+  
+
+ <!-- 
+theme=ocean_dark 
+tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
+-->
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RobsonCoura&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobsonCoura&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobsonCoura&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobsonCoura&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=RobsonCoura&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
   </div>
  
 <div> 
@@ -59,7 +73,6 @@
 <div align="center">
 
   ![Snake animation](https://github.com/RobsonCoura/RobsonCoura/blob/output/github-contribution-grid-snake.svg)
-  ![snake gif](https://github.com/RobsonCoura/RobsonCoura/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
