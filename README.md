@@ -22,7 +22,7 @@
   
 ---
 
-<img src="https://github.com/RobsonCoura/RobsonCoura/blob/main/media/mario-bros-bedroom.gif" width="1700" align="center">
+<img src="https://github.com/RobsonCoura/RobsonCoura/blob/main/media/mario-bros-bedroom.gif" height="600" width="1500" align="center">
 
    ---
    ## ⭐️ Hard Skills
