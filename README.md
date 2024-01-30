@@ -11,6 +11,7 @@
 
  ## ⭐️ Sobre Mim
 
+
   <p align="left">
 💻🧔🏻 | Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com mais de um ano de experiência profissional em projetos de baixa a alta complexidade. Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas na UNINOVE e o ensino de Inglês como Segundo Idioma na Voxy, buscando constantemente novas oportunidades para me aprimorar e enfrentar desafios estimulantes na área de TI. 
 
@@ -22,7 +23,7 @@
   
 ---
 
-<img src="https://github.com/RobsonCoura/RobsonCoura/blob/main/media/mario-bros-bedroom.gif" height="600" width="1500" align="center">
+<img src="https://github.com/RobsonCoura/RobsonCoura/blob/main/media/mario-bros-bedroom.gif" height="400" width="1500" align="center">
 
    ---
    ## ⭐️ Hard Skills
@@ -53,7 +54,7 @@
   <!-- Git Lab --> <img src="https://img.shields.io/badge/GitLab%20-323330?style=for-the-badge&logo=GitLab&logoColor=EF5B25">
   <!-- Git Hub --> <img src="https://img.shields.io/badge/GitHub%20-323330?style=for-the-badge&logo=GitHub&logoColor=8B008B">
 
-  
+---
 
  <!-- 
 theme=ocean_dark 
