@@ -68,11 +68,7 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 | :-: | :-: |
   </div>
    
-<div align="center">
-
- ![snake gif](https://github.com/RobsonCoura/RobsonCoura/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+ ![Snake animation](https://github.com/RobsonCoura/RobsonCoura/blob/output/github-contribution-grid-snake.svg)
 
  
  ---
