@@ -73,6 +73,13 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
   ![Snake animation](https://github.com/RobsonCoura/RobsonCoura/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobsonCoura/RobsonCoura/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobsonCoura/RobsonCoura/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RobsonCoura/RobsonCoura/output/github-contribution-grid-snake.svg">
+</picture>
+
  
  ---
   
