@@ -1,4 +1,3 @@
-
 name: Generate Datas
 on:
   schedule: # execute every 12 hours
@@ -14,7 +13,7 @@ jobs:
         id: snake-gif
   
         with:
-          github_user_name: RobsonCoura
+          github_user_name: RobsonCoura/RobsonCoura
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
