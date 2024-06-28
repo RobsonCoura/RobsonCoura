@@ -13,7 +13,7 @@
 
 
   <p align="left">
-💻🧔🏻 | Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com mais de um ano de experiência profissional em projetos de baixa a alta complexidade. Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho e o ensino de Inglês como Segundo Idioma na Voxy, buscando constantemente novas oportunidades para me aprimorar e enfrentar desafios estimulantes na área de TI. 
+💻🧔🏻 | Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com mais de um ano de experiência profissional em projetos de baixa a alta complexidade. Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas na UNINOVE e o ensino de Inglês como Segundo Idioma na Voxy, buscando constantemente novas oportunidades para me aprimorar e enfrentar desafios estimulantes na área de TI. 
 
 📆🎓 | Em 2021, me formei no bootcamp de Desenvolvedor Web Full-Stack da Generation Brasil, onde aprimorei minhas habilidades em hard e soft skills, trabalhando em equipe, seguindo metodologias ágeis, e utilizando as principais ferramentas e linguagens do mercado, como Java, Spring Framework, Angular, JavaScript, TypeScript, HTML, CSS, MySQL, PostgreSQL, entre outras. 
 
@@ -39,6 +39,7 @@
   <!-- CSS3 --> <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6">
   <!-- Node Js --> <img src="https://img.shields.io/badge/Node%20js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933">
   <!-- Nest Js --> <img src="https://img.shields.io/badge/Nestjs-323330?style=for-the-badge&logo=Nestjs&logoColor=CC2927">
+  <!-- Python --> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=1572B6" />
   <!-- Visual Studio Code --> <img src="https://img.shields.io/badge/Visual studio code%20-323330?style=for-the-badge&logo=Visual studio code&logoColor=8B008B">
   <!-- Docker --> <img src="https://img.shields.io/badge/Docker%20-323330?style=for-the-badge&logo=Docker&logoColor=blue">
   <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-323330?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">
