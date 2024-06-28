@@ -13,7 +13,7 @@
 
 
   <p align="left">
-💻🧔🏻 | Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com mais de um ano de experiência profissional em projetos de baixa a alta complexidade. Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas na UNINOVE e o ensino de Inglês como Segundo Idioma na Voxy, buscando constantemente novas oportunidades para me aprimorar e enfrentar desafios estimulantes na área de TI. 
+💻🧔🏻 | Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com mais de um ano de experiência profissional em projetos de baixa a alta complexidade. Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho e o ensino de Inglês como Segundo Idioma na Voxy, buscando constantemente novas oportunidades para me aprimorar e enfrentar desafios estimulantes na área de TI. 
 
 📆🎓 | Em 2021, me formei no bootcamp de Desenvolvedor Web Full-Stack da Generation Brasil, onde aprimorei minhas habilidades em hard e soft skills, trabalhando em equipe, seguindo metodologias ágeis, e utilizando as principais ferramentas e linguagens do mercado, como Java, Spring Framework, Angular, JavaScript, TypeScript, HTML, CSS, MySQL, PostgreSQL, entre outras. 
 
