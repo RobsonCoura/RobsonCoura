@@ -77,9 +77,16 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 <br><br>
  
  ---
-  
+<!--  
 <p align="center"> Total de Visitas no Perfil: <img src="https://em-content.zobj.net/thumbs/120/apple/325/detective_1f575-fe0f.png" alt=":detective:" height="24" width="24" /> </p>
 <p align="center"> 
    <img align="center" src="https://profile-counter.glitch.me/RobsonCoura/count.svg" />
 </p>
-
+-->
+<p align="center">
+  Total de Visitas no Perfil: 
+  <img src="https://em-content.zobj.net/thumbs/120/apple/325/detective_1f575-fe0f.png" alt="detetive" height="24" width="24" />
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RobsonCoura" alt="Contador de visitas" />
+</p>
