@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋+seja+bem+vindo(a)!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Olá!+👋+seja+bem+vindo(a)!;" />
 </h1>
 
 <p align="center"> 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 🎬 </p>
@@ -83,6 +83,15 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
    <img align="center" src="https://profile-counter.glitch.me/RobsonCoura/count.svg" />
 </p>
 -->
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Total+de+Visitas+no+Perfil:+🕵🏻‍♀️;" />
+ <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RobsonCoura" alt="Contador de visitas" />
+</p>
+</h1>
+
+<!--
 <p align="center">
   Total de Visitas no Perfil: 
   <img src="https://em-content.zobj.net/thumbs/120/apple/325/detective_1f575-fe0f.png" alt="detetive" height="24" width="24" />
@@ -90,3 +99,4 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RobsonCoura" alt="Contador de visitas" />
 </p>
+-->
