@@ -40,7 +40,7 @@
   <!-- Node Js --> <img src="https://img.shields.io/badge/Node%20js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933">
   <!-- Nest Js --> <img src="https://img.shields.io/badge/Nestjs-323330?style=for-the-badge&logo=Nestjs&logoColor=CC2927">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=1572B6" />
-  <!-- Visual Studio Code --> <img src="https://img.shields.io/badge/Visual studio code%20-323330?style=for-the-badge&logo=Visual studio code&logoColor=8B008B">
+  <!-- Visual Studio Code --> <!-- <img src="https://img.shields.io/badge/Visual studio code%20-323330?style=for-the-badge&logo=Visual studio code&logoColor=8B008B"> -->
   <!-- Docker --> <img src="https://img.shields.io/badge/Docker%20-323330?style=for-the-badge&logo=Docker&logoColor=blue">
   <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-323330?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">
   <!-- MySQL --> <img src="https://img.shields.io/badge/MySql-323330?style=for-the-badge&logo=mysql&logoColor=blue">
@@ -50,7 +50,7 @@
   <!-- Json --> <img src="https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=d3d3d3">
   <!-- Swagger --> <img src="https://img.shields.io/badge/Swagger%20-323330?style=for-the-badge&logo=Swagger&logoColor=32de84">
   <!-- Scrum --> <img src="https://img.shields.io/badge/scrum-323330?style=for-the-badge&logo=scrum&logoColor=white">
-  <!-- Azure DevOps --> <img src="https://img.shields.io/badge/Azure DevOps%20-323330?style=for-the-badge&logo=Azure DevOps&logoColor=blue">
+  <!-- Azure DevOps --> <!-- <img src="https://img.shields.io/badge/Azure DevOps%20-323330?style=for-the-badge&logo=Azure DevOps&logoColor=blue"> -->
   <!-- Git --> <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=Git&logoColor=CC2927">
   <!-- Git Lab --> <img src="https://img.shields.io/badge/GitLab%20-323330?style=for-the-badge&logo=GitLab&logoColor=EF5B25">
   <!-- Git Hub --> <img src="https://img.shields.io/badge/GitHub%20-323330?style=for-the-badge&logo=GitHub&logoColor=8B008B">
