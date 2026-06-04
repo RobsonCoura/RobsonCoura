@@ -10,17 +10,47 @@
 
 
  ## ⭐️ Sobre Mim
+ 
+ ```java
+package br.com.robsoncoura;
 
+public record RobsonCoura(
 
-  <p align="left">
-💻🧔🏻 | Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com mais de um ano de experiência profissional em projetos de baixa a alta complexidade. Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas na UNINOVE e o ensino de Inglês como Segundo Idioma na Voxy, buscando constantemente novas oportunidades para me aprimorar e enfrentar desafios estimulantes na área de TI. 
+        String role,
+        String experience,
+        String[] focus
 
-📆🎓 | Em 2021, me formei no bootcamp de Desenvolvedor Web Full-Stack da Generation Brasil, onde aprimorei minhas habilidades em hard e soft skills, trabalhando em equipe, seguindo metodologias ágeis, e utilizando as principais ferramentas e linguagens do mercado, como Java, Spring Framework, Angular, JavaScript, TypeScript, HTML, CSS, MySQL, PostgreSQL, entre outras. 
+) {
 
-💻🤝🏻 | No ano seguinte, atuei como Back-end Developer na WanSoft Brazil, uma consultoria de TI de médio porte, onde contribuí para o desenvolvimento, a manutenção e a integração de diversas API's, utilizando o Spring Boot, PostgreSQL, Postman, Git, Maven, Tomcat, JWT, entre outras. Nesse período, participei de reuniões diárias com a equipe, de ritos do Scrum, de levantamento de dados e requisitos, de modelagem de bancos de dados, e de criação de CRUD's e querys. Além disso, tenho atenção aos detalhes, sou comprometido, proativo, e tenho facilidade de aprendizado e adaptação.
-  </p>
+    public static RobsonCoura build() {
 
-  
+        return new RobsonCoura(
+
+                "🚀 Software Engineer",
+
+                "🔥 3+ years",
+
+                new String[]{
+                        "☕ Java",
+                        "🌱 Spring Boot",
+                        "🏗️ Microservices",
+                        "☁️ Cloud",
+                        "⚙️ Kubernetes"
+                }
+
+        );
+    }
+
+    public String contact() {
+
+        return """
+                💼 LinkedIn: linkedin.com/in/robsoncoura
+                📧 Email: robson.02coura@gmail.com
+                """;
+    }
+}
+
+```
 ---
 
 <img src="https://github.com/RobsonCoura/RobsonCoura/blob/main/media/mario-bros-bedroom.gif" height="400" width="1500" align="center">
